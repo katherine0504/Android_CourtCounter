@@ -1,5 +1,7 @@
 # Android_CourtCounter
 
+#Introduction
+
 The third easy anroid app based on the practice set 2 of Android Development for Beginners on Udacity.
 
 It allows you to simulate the process of keeping track of the score of both teams in a basketball game.
